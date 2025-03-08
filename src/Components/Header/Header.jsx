@@ -4,7 +4,7 @@ import ButtonData from "../../Components/Header/ButtonData";
 import HeaderData from "../../Components/Header/HeaderData";
 import SmallDeviceHeader from "../../Components/Header/SmallDeviceHeader";
 import { Link } from "react-router-dom";
-import Advantages from "../Advantages/Advantages";
+import Advantages from "../Home/Advantages/Advantages";
 
 const Header = () => {
   const [activeTab, setActiveTab] = useState();

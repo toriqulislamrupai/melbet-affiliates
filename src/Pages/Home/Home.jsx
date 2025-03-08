@@ -5,9 +5,9 @@ import Earning from "../../Components/Home/Earning";
 import HomeBanner from "../../Components/Home/HomeBanner";
 import Partnership from "../../Components/Home/Partnership";
 import Testimonials from "../../Components/Home/Testimonials";
-import Advantages from "../Advantages/Advantages";
-import Faq from "../Faq/Faq";
 
+import Advantages from "../../Components/Home/Advantages/Advantages";
+import Faq from "../../Components/Home/Faq";
 const Home = () => {
   useEffect(() => {
       window.scrollTo({ top: 0, behavior: "auto" });

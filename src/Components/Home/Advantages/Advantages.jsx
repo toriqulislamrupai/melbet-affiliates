@@ -1,10 +1,11 @@
-import ImageOne from "../../assets/coin.b8505ce66cdeb3365dbd0c70462da5d2.png";
-import ImageTwo from "../../assets/promo.c2810b6abe1e5b2e4d4338fd02c570da.png";
-import ImageThree from "../../assets/bonus.bf4810150a8547ba7e8f042491511000.png";
-import ImageFour from "../../assets/support.a3c9874e89c9b3bbac1afdc03f325c62.png";
-import ImageFive from "../../assets/fast-payment.6c339e9b12ec770ecac4584edac43469.png";
-import ImageSix from "../../assets/statistic.0860515c4e4148dcccb0ba8fec6aeaa7.png";
-import AdvantagesSlider from "../../Components/Advantages/AdvantagesSlider";
+
+import ImageOne from '../../../assets/coin.b8505ce66cdeb3365dbd0c70462da5d2.png'
+import ImageTwo from "../../../assets/promo.c2810b6abe1e5b2e4d4338fd02c570da.png";
+import ImageThree from "../../../assets/bonus.bf4810150a8547ba7e8f042491511000.png";
+import ImageFour from "../../../assets/support.a3c9874e89c9b3bbac1afdc03f325c62.png";
+import ImageFive from "../../../assets/fast-payment.6c339e9b12ec770ecac4584edac43469.png";
+import ImageSix from "../../../assets/statistic.0860515c4e4148dcccb0ba8fec6aeaa7.png";
+import AdvantagesSlider from "./AdvantagesSlider";
 
 
 const Advantages = () => {
